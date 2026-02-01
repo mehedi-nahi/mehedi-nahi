@@ -22,13 +22,6 @@ I am a **Computer Science graduate** from United International University (UIU),
 
 ---
 
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-nahi&show_icons=true&theme=radical&hide_border=true" alt="Mehedi's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-nahi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
 ---
 
 ### 🏆 Key Projects
