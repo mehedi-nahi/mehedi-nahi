@@ -1,17 +1,17 @@
 # Hi there, I'm Md Mehedi Alam Nahi! 👋
 
-### 👨‍💻 Backend Engineer | 🧠 AI Researcher
+###  Backend Engineer |  AI Researcher
 
 I am a **Computer Science graduate** from United International University (UIU), specializing in building scalable **Backend Architectures** and researching **Deep Learning** solutions. My work sits at the intersection of robust system engineering and cutting-edge AI.
 
-- 🔭 **I’m currently working on:** Deepfake Voice Detection Frameworks using **PyTorch** & **Transformers**.
-- 🌱 **I’m currently learning:** Agentic AI, Microservices, and Advanced System Design.
-- 👯 **I’m looking to collaborate on:** Open-source backend tools or AI-driven security projects.
-- 💬 **Ask me about:** REST APIs, MongoDB Aggregations, RBAC, and Audio Feature Extraction.
+ **I’m currently working on:** Deepfake Voice Detection Frameworks using **PyTorch** & **Transformers**.
+ **I’m currently learning:** Agentic AI, Microservices, and Advanced System Design.
+ **I’m looking to collaborate on:** Open-source backend tools or AI-driven security projects.
+ **Ask me about:** REST APIs, MongoDB Aggregations, RBAC, and Audio Feature Extraction.
 
 ---
 
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
 | **Category** | **Technologies** |
 | :--- | :--- |
@@ -22,7 +22,7 @@ I am a **Computer Science graduate** from United International University (UIU),
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehedi-nahi&show_icons=true&theme=radical&hide_border=true" alt="Mehedi's GitHub Stats" height="150" />
@@ -33,11 +33,11 @@ I am a **Computer Science graduate** from United International University (UIU),
 
 ### 🏆 Key Projects
 
-**🔐 E-Commerce Backend API**
+** E-Commerce Backend API**
 * **Tech:** Node.js, Express, MongoDB, Redis.
 * **Core:** Implemented **RBAC** (Role-Based Access Control), complex **Aggregation Pipelines** for product filtering, and **Indexing** for search optimization.
 
-**🎙️ Deepfake Voice Detection (Thesis)**
+** Deepfake Voice Detection (Thesis)**
 * **Tech:** Python, PyTorch, Librosa, Transformers.
 * **Core:** A deep learning framework analyzing MFCCs and spectral features to detect synthetic audio artifacts with high precision.
 
