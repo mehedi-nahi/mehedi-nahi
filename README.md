@@ -1,4 +1,4 @@
-# Hi there, I'm Md Mehedi Alam Nahi! 👋
+# Hi there, I'm Md Mehedi Alam Nahi! 
 
 ###  Backend Engineer |  AI Researcher
 
@@ -24,7 +24,7 @@ I am a **Computer Science graduate** from United International University (UIU),
 
 ---
 
-### 🏆 Key Projects
+###  Key Projects
 
 ** E-Commerce Backend API**
 * **Tech:** Node.js, Express, MongoDB, Redis.
@@ -36,7 +36,7 @@ I am a **Computer Science graduate** from United International University (UIU),
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/md-mehedi-alam-nahi" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
