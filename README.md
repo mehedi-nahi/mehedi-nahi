@@ -36,9 +36,15 @@ I am a **Computer Science graduate** from United International University (UIU),
 
 ---
 
-###  Connect with Me
-
+### Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/md-mehedi-alam-nahi" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nahimehedi@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/md-mehedi-alam-nahi" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nahimehedi@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://mehedi-nahi.github.io/portfolio" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
