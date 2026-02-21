@@ -2,7 +2,7 @@
 
 ###  Backend Engineer |  AI Researcher
 
-I am a **Computer Science graduate** from United International University (UIU), specializing in building scalable **Backend Architectures** and researching **Deep Learning** solutions. My work sits at the intersection of robust system engineering and cutting-edge AI.
+I am a **Computer Science graduate** from United International University (UIU), specializing in building scalable **Backend Architectures** and researching **Deep Learning** solutions.
 
  **I’m currently working on:** Deepfake Voice Detection Frameworks using **PyTorch** & **Transformers**.
  **I’m currently learning:** Agentic AI, Microservices, and Advanced System Design.
