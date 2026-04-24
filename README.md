@@ -5,7 +5,7 @@
 I am a **Computer Science graduate** from United International University (UIU), specializing in building scalable **Backend Architectures** and researching **Deep Learning** solutions.
 
  **I’m currently working on:** Deepfake Voice Detection Frameworks using **PyTorch** & **Transformers**.
- **I’m currently learning:** Agentic AI, Microservices, and Advanced System Design.
+ **I’m currently learning:** Agentic AI, Advanced System Design.
  **I’m looking to collaborate on:** Open-source backend tools or AI-driven security projects.
  **Ask me about:** REST APIs, MongoDB Aggregations, RBAC, and Audio Feature Extraction.
 
